@@ -1,0 +1,3 @@
+C:/Users/paulp/ComputerPrograms/ScuffedPaint/build/CMakeFiles/ScuffedPaint.dir
+C:/Users/paulp/ComputerPrograms/ScuffedPaint/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/paulp/ComputerPrograms/ScuffedPaint/build/CMakeFiles/ZERO_CHECK.dir
