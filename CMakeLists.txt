@@ -11,5 +11,8 @@ target_sources(ScuffedPaint PRIVATE
 	${CMAKE_CURRENT_SOURCE_DIR}/src/main.cpp
 )
 target_include_directories(ScuffedPaint PRIVATE
-	${CMAKE_CURRENT_SOURCE_DIR}/vendor
+	${CMAKE_CURRENT_SOURCE_DIR}/vendor/minifb/include
 )
+
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/vendor/minifb)
+target_link_libraries(ScuffedPaint minifb)

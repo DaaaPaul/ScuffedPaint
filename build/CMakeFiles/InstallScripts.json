@@ -1,7 +1,8 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/paulp/ComputerPrograms/ScuffedPaint/build/cmake_install.cmake"
+		"C:/Users/paulp/ComputerPrograms/ScuffedPaint/build/cmake_install.cmake",
+		"C:/Users/paulp/ComputerPrograms/ScuffedPaint/build/vendor/minifb/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

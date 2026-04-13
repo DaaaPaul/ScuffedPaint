@@ -1,0 +1,14 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindGit.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/paulp/ComputerPrograms/ScuffedPaint/vendor/minifb/CMakeLists.txt
+C:/Users/paulp/ComputerPrograms/ScuffedPaint/vendor/minifb/cmake/minifb-config.cmake.in
+C:/Users/paulp/ComputerPrograms/ScuffedPaint/vendor/minifb/cmake/minifb_cmake_helpers.cmake
+C:/Users/paulp/ComputerPrograms/ScuffedPaint/vendor/minifb/cmake/versioning.cmake
+C:/Users/paulp/ComputerPrograms/ScuffedPaint/vendor/minifb/include/minifb_version.h.in
